@@ -21,6 +21,7 @@ Este projeto é uma recriação da interface inicial do site da Netflix, utiliza
 - **HTML**: Para estruturação do conteúdo da página.
 - **CSS**: Para estilização e layout da página (utilizando Flexbox e Grid).
 - **JavaScript**: Para interatividade e manipulação de elementos DOM (ex: carrosséis, navegação, animações).
+- - **React**: Para gerenciar a renderização e interatividade da página de forma eficiente e modular.
 
 ## Como Executar
 
